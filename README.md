@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=200&section=header&text=Mayank%20Pathak&fontSize=40&fontColor=ffffff" />
+</p>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mayank Pathak</h1>
 <h3 align="center">DevOps Engineer | AWS | Docker | Terraform</h3>
 
